@@ -1,2 +1,0 @@
-# websites
-Please check releases :)
